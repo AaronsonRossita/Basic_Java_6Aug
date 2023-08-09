@@ -80,6 +80,26 @@ public class Main {
 //        }
 //
 //        System.out.println(a > 0 ? "bigger than zero" : "not bigger than zero");
+//        int x = 80;
+//        int y = 9;
+//
+//        String s1;
+//        if(x > y){
+//            s1 = "x is bigger";
+//        }else{
+//            if(x < y){
+//                s1 = "x is smaller";
+//            }else{
+//                s1 = "x and y are equal";
+//            }
+//        }
+//        System.out.println(s1);
+//
+//        String s2 = (x > y) ? "x is bigger" : (x < y) ? "x is smaller" : "x and y are equal";
+//        System.out.println( s2);
+
+
+
 //        int day = -3;
 //
 //        switch (day){
